@@ -1,0 +1,12 @@
+﻿elemento,sigma_b,log10_sigma,sigma_b_min,sigma_b_max,n_sigma_b,E_out_MeV,E_out_MeV_min,E_out_MeV_max,n_E_out_MeV,docs,n_metricas,completo
+B,4600.0,3.662757831681574,539.0,9200.0,10,4.915,4.86,4.97,2,"1940_Haxby, 1940_Herbert, 1942_Bacher, 1946_Rainwater, 1947_Hanson, 1947_Segre, 1948_Seidl, 1949_McDaniel, 1950_Allred, 1950_Duckworth",2,True
+C,4.0,0.6020599913279624,3.4,4.6,2,7.0,7.0,7.0,1,"1940_Haxby, 1946_Bennett, 1947_Coon, 1949_Capron, 1949_Dejuren, 1949_Falk, 1950_Hibdon, 1950_Mehta, 1950_Roger",2,True
+Cd,708.0,2.850033257689769,290.0,4600.0,3,,,,0,"1940_Herbert, 1942_Bacher, 1946_Rainwater, 1948_Seidl, 1949_Falk, 1949_Hibdon",1,False
+paraffin,552.0,2.741939077729199,540.0,552.0,3,,,,0,"1940_Haxby, 1940_Herbert, 1942_Bacher, 1946_Bennett, 1946_Rainwater, 1947_Hanson, 1948_Cocconi, 1948_Cocconi2, 1948_Seidl, 1949_Cocconi, 1950_Fox",1,False
+Al,0.025,-1.6020599913279623,0.025,0.025,1,,,,0,"1946_Bennett, 1946_Rainwater, 1950_Bernard, 1950_Poss",1,False
+Co,8.0,0.9030899869919435,8.0,8.0,1,,,,0,"1948_Seidl, 1950_Hibdon",1,False
+H,0.1,-1.0,0.1,0.1,1,,,,0,"1947_Barschall, 1947_Coon, 1947_Hanson, 1950_Fox, 1950_Keepin, 1950_Roger",1,False
+U,10000.0,4.0,10000.0,10000.0,1,,,,0,"1940_Herbert, 1948_Szilard, 1949_Price",1,False
+Be,,,,,0,2.8,2.8,2.8,1,"1940_Haxby, 1940_Herbert, 1946_Bennett, 1946_Rainwater, 1950_Bernard, 1950_Fox, 1950_Wilkinson",1,False
+He,,,,,0,1.0,1.0,1.0,1,1947_Barschall,1,False
+Li,,,,,0,1.35,1.35,1.35,1,"1940_Haxby, 1946_Bennett, 1949_Price, 1949_Yamakawa, 1950_Allred, 1950_Duckworth, 1950_Keepin",1,False
